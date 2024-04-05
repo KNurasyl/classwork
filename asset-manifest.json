@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/classwork/static/css/main.94f2a92e.css",
+    "main.js": "/classwork/static/js/main.27bd43a5.js",
+    "static/js/453.76b24ced.chunk.js": "/classwork/static/js/453.76b24ced.chunk.js",
+    "index.html": "/classwork/index.html",
+    "main.94f2a92e.css.map": "/classwork/static/css/main.94f2a92e.css.map",
+    "main.27bd43a5.js.map": "/classwork/static/js/main.27bd43a5.js.map",
+    "453.76b24ced.chunk.js.map": "/classwork/static/js/453.76b24ced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94f2a92e.css",
+    "static/js/main.27bd43a5.js"
+  ]
+}
